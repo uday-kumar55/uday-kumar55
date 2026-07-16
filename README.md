@@ -199,17 +199,7 @@ class Developer {
 ### 🤝 Let's Connect
 
 I'm always open to collaborating on interesting projects, contributing to open source, or chatting about frontend development and cybersecurity. Feel free to reach out via [LinkedIn](https://linkedin.com/in/uday-kumar55/) or [email](mailto:udaykumar01200407@gmail.com) — and if any of my projects are useful to you, a ⭐ on the repo goes a long way!
-## 🐍 Contribution Snake
 
-<p align="center">
-  <img alt="snake eating my contributions"
-       src="https://raw.githubusercontent.com/uday-kumar55/uday-kumar55/output/github-contribution-grid-snake-dark.svg">
-</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uday-kumar55/uday-kumar55/output/github-contribution-graph-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uday-kumar55/uday-kumar55/output/github-contribution-graph-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uday-kumar55/uday-kumar55/output/github-contribution-graph-snake.svg">
-</picture>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=200&color=gradient&customColorList=6,12,20,24,30&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=⭐%20Star%20my%20repositories%20if%20you%20like%20my%20work!&descAlignY=66&descSize=18"/>
 
