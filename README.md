@@ -8,7 +8,7 @@ B.Tech in Cybersecurity | Software Engineer | Frontend Developer | React.js Enth
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=900&lines=Uday+Kumar;Software+Engineer;Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;Cybersecurity+Student;Cloud+Computing+Learner;Building+Responsive+Web+Applications;Always+Learning+New+Technologies" />
 </p>
-
+ 
 
 <p align="center">
   <a href="https://linkedin.com/in/uday-kumar55/" target="_blank">
