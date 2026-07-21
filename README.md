@@ -155,8 +155,9 @@ A React-based calculator with a clean, interactive interface, built to reinforce
   <img src="https://github-readme-stats.shion.dev/api?username=uday-kumar55&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" width="48%" />
 
 <br>
-  <img src="https://streak-stats.demolab.com?user=uday-kumar55&theme=tokyonight&hide_border=true&cache_seconds=3600" width="48%" />
-  </p>
+  <!-- <img src="https://streak-stats.demolab.com?user=uday-kumar55&theme=tokyonight&hide_border=true&cache_seconds=3600" width="48%" />
+  </p> -->
+  <img src="https://streak-stats.demolab.com?user=uday-kumar55&theme=tokyonight&hide_border=true&v=2" width="48%" />
 </p>
 
 <p align="center">
