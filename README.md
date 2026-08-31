@@ -60,6 +60,7 @@ B.Tech in Cybersecurity | Software Engineer | Frontend Developer | React.js Enth
   <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,vercel,git,github,vscode&theme=dark" />
 </p>
 
+
 | Category | Technologies & Ecosystem Tools |
 | :--- | :--- |
 | **Frontend Architecture** | `HTML5` `CSS3` `React.js` `React Router` `Responsive UI Design` `Vite` |
