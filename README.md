@@ -170,7 +170,7 @@ A React-based calculator with a clean, interactive interface, built to reinforce
 ## 💻 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/udaykumar0755?theme=dark&font=Nunito&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/uday-kumar55?theme=dark&font=Nunito&ext=contest" />
 </p>
 
 ---
